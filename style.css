@@ -1,12 +1,60 @@
+html {
+  background-image: url(images/Upiter.png);
+  background-repeat: repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
 h1{
-  color: aqua;
-    color: rgb(194, 29, 81);
-        font-size: 60px;
-    font-style: italic;
-    font-weight: 900;
-    
-    font-family: 'Comforter Brush', cursive;
+  padding-left: 60px;
+  text-align: left;
+  color: brown;
+  font-size: 80px;
+  font-size: center;
+  font-style: italic;
+  font-weight: 500;
+  font-family: 'Silkscreen', cursive;
 }
 h2{
-    font-family: 'Comforter Brush', cursive;
+  padding-left: 50px;
+  text-align: left;
+  color: brown;
+  font-size: 45px;
+  font-size: center;
+  font-style: italic;
+  font-weight: 300;
+  font-family: 'Silkscreen', cursive;
+}
+h3{
+    padding-left: 100px;
+  text-align: left;
+  color: brown;
+  font-size: 45px;
+  font-size: center;
+  font-style: italic;
+  font-weight: 300;
+  font-family: 'Silkscreen', cursive;
+}
+h4{
+    padding-left: 60px;
+  text-align: left;
+  color: brown;
+  font-size: 45px;
+  font-size: center;
+  font-style: italic;
+  font-weight: 300;
+  font-family: 'Silkscreen', cursive;
+}
+img {
+  border: 5px solid darkblue;
+    height: 600px;
+  width: 600px;
+}
+p{
+    padding-right: 1250px;
+    padding-left: 80px;
+    text-align: center;
+    color: chartreuse;
+    font-size: 20px;
+    font-family: 'Silkscreen', cursive;
 }
